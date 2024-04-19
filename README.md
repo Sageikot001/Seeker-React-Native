@@ -1,5 +1,11 @@
 SEEKER
 
+<video width="320" height="240" controls>
+  <source src="../../../../../Videos/Web builds/Webbuild Youtube/Job-Seeker/Job-Seeker.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 [![Seeker](http://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=bTC5BPQCL4U "Seeker")
 
 Seeker is an intuitive job seeking mobile application with easy navigation and user experience. The task was to create the app and actually make it look trust worthy enough for users to be interested in using it.
